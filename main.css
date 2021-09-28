@@ -18,6 +18,16 @@
   font-size: 20;
 }
 
+.timercont {
+  text-align: center;
+}
+
+.timer {
+  color: yellow;
+  font-size: 40;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
 body {
   background-color: black;
 }
