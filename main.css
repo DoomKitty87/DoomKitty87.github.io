@@ -25,6 +25,11 @@
   font-family: 'Noto Sans KR', sans-serif;
 }
 
+.hidden {
+  color: black;
+  font-size: 5;
+}
+
 body {
   background-color: black;
 }
