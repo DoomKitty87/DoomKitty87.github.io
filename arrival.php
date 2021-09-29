@@ -10,4 +10,7 @@
   <p class="text">Tjafy qgmj lwse'k kzajl lg jgge 118 sl 11:39 SE gf Gulgtwj 31, 2021.</p>
 </div>
 </body>
+<script>
+//I: I know you now. You are not the helper you pretend to be. K: You think so highly of yourself.
+</script>
 </html>
